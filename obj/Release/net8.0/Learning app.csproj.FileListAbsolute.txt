@@ -1,0 +1,30 @@
+C:\.net proj\Learning app\bin\Release\net8.0\appsettings.Development.json
+C:\.net proj\Learning app\bin\Release\net8.0\appsettings.json
+C:\.net proj\Learning app\bin\Release\net8.0\Learning app.staticwebassets.runtime.json
+C:\.net proj\Learning app\bin\Release\net8.0\Learning app.exe
+C:\.net proj\Learning app\bin\Release\net8.0\Learning app.deps.json
+C:\.net proj\Learning app\bin\Release\net8.0\Learning app.runtimeconfig.json
+C:\.net proj\Learning app\bin\Release\net8.0\Learning app.dll
+C:\.net proj\Learning app\bin\Release\net8.0\Learning app.pdb
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.AssemblyInfoInputs.cache
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.AssemblyInfo.cs
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.csproj.CoreCompileInputs.cache
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.MvcApplicationPartsAssemblyInfo.cache
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.RazorAssemblyInfo.cache
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.RazorAssemblyInfo.cs
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets.build.json
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets.development.json
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets\msbuild.Learning app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets\msbuild.build.Learning app.props
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Learning app.props
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Learning app.props
+C:\.net proj\Learning app\obj\Release\net8.0\staticwebassets.pack.json
+C:\.net proj\Learning app\obj\Release\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\.net proj\Learning app\obj\Release\net8.0\scopedcss\bundle\Learning app.styles.css
+C:\.net proj\Learning app\obj\Release\net8.0\scopedcss\projectbundle\Learning app.bundle.scp.css
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.dll
+C:\.net proj\Learning app\obj\Release\net8.0\refint\Learning app.dll
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.pdb
+C:\.net proj\Learning app\obj\Release\net8.0\Learning app.genruntimeconfig.cache
+C:\.net proj\Learning app\obj\Release\net8.0\ref\Learning app.dll

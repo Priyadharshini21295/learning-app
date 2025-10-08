@@ -1,0 +1,7 @@
+C:\.net proj\Learning app\bin\publish\Learning app.exe
+C:\.net proj\Learning app\bin\publish\appsettings.Development.json
+C:\.net proj\Learning app\bin\publish\appsettings.json
+C:\.net proj\Learning app\bin\publish\Learning app.dll
+C:\.net proj\Learning app\bin\publish\Learning app.deps.json
+C:\.net proj\Learning app\bin\publish\Learning app.runtimeconfig.json
+C:\.net proj\Learning app\bin\publish\Learning app.pdb
